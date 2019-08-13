@@ -1,0 +1,43 @@
+body {
+  padding: 20px;
+  font-size: 16px;
+  font-family: Arial, Verdana, sans-serif;
+  color: black;
+  background-color: #eeeeee;
+  width: 90%;
+  max-width: 1080px;
+  margin: auto;
+}
+
+h1, h2, h3, a {
+  font-weight: normal;
+  color: inherit;
+  margin: 0px;
+}
+
+h1 {
+  font-family: Helvetica, Times, serif;
+  font-size: 32px;
+  padding-bottom: 10px;
+  text-transform: capitalize;
+}
+
+h2 {
+  font-family: Helvetica, Times, serif;
+  font-size: 24px;
+  font-style: bold;
+  text-transform: capitalize;
+}
+
+p {
+  font-family: Arial, Verdana, sans-serif;
+  line-height: 1.4em;
+  font-size: 1em;
+  color: black;
+}
+
+h3 {
+  font-family: Helvetica, Times, serif;
+  font-size: 18px;
+  font-style: bold;
+}
